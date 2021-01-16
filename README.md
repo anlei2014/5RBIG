@@ -4,9 +4,9 @@ Record the SUPINFO course
 
 Remainder: this project has to be realized by groups of 4 students max.
 
-For this exam, you have to download and use the following csv file MP-5RBIG (链接到外部网站。):
+For this exam, you have to download and use the following csv file MP-5RBIG:
 
-Source of the dataset: P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7. Here is a link (链接到外部网站。) to this paper.
+Source of the dataset: P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7. Here is a link to this paper.
 
 These data concern students from two portuguese public schools and were collected during the 2005-2006 academic year. We will study all the variables and their interactions, with a special focus on factors that affect student success.
 
@@ -49,7 +49,7 @@ You will find extra information about the context and the variables in the previ
 
 Your rendering will take the form of a R Markdown notebook (included a R source code and a HTML (or PDF) document).
 
-The use of the library ggplot2 will be appreciated, feel free to documente yourself about it, in particular with this ressource (链接到外部网站。).
+The use of the library ggplot2 will be appreciated, feel free to documente yourself about it, in particular with this ressource.
 
 All graphics, computations, tests and so on must be introduced, justified and interpreted. A professional report is expected.
 
