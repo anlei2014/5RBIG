@@ -2,24 +2,25 @@
 
 Record the SUPINFO course
 
-Remainder: this project has to be realized by groups of 4 students max.
+Remainder:   
+this project has to be realized by groups of 4 students max.  
 
-For this exam, you have to download and use the following csv file MP-5RBIG:
+For this exam, you have to download and use the following csv file MP-5RBIG:  
 
-Source of the dataset: P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7. Here is a link to this paper.
+Source of the dataset: P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7. Here is a link to this paper.  
 
-These data concern students from two portuguese public schools and were collected during the 2005-2006 academic year. We will study all the variables and their interactions, with a special focus on factors that affect student success.
+These data concern students from two portuguese public schools and were collected during the 2005-2006 academic year. We will study all the variables and their interactions, with a special focus on factors that affect student success.  
 
-Here is the description of the different variables:
+Here is the description of the different variables:  
 
 school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira) <br>
 sex - student's sex (binary: "F" - female or "M" - male)<br>
 age - student's age (numeric: from 15 to 22)<br>
 address - student's home address type (binary: "U" - urban or "R" - rural)<br>
-famsize - family size (binary: "LE3" - less or equal to 3 or "GT3" - greater than 3)
-Pstatus - parent's cohabitation status (binary: "T" - living together or "A" - apart)
-Medu - mother's education (numeric: 0 - none, 1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher education)
-Fedu - father's education (numeric: 0 - none, 1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher education)
+famsize - family size (binary: "LE3" - less or equal to 3 or "GT3" - greater than 3)  
+Pstatus - parent's cohabitation status (binary: "T" - living together or "A" - apart)  
+Medu - mother's education (numeric: 0 - none, 1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher education)  
+Fedu - father's education (numeric: 0 - none, 1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher education)  
 Mjob - mother's job (nominal: "teacher", "health" care related, civil "services" (e.g. administrative or police), "at_home" or "other")
 Fjob - father's job (nominal: "teacher", "health" care related, civil "services" (e.g. administrative or police), "at_home" or "other")
 reason - reason to choose this school (nominal: close to "home", school "reputation", "course" preference or "other")
